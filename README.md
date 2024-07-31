@@ -37,7 +37,7 @@ Add the following code to your readme. When pasting the code into your profile's
 readme, change the `?username=` value to your GitHub's username.
 
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=username)](https://github.com/username/github-profile-trophy)
 ```
 
 <p align="center">
@@ -49,7 +49,7 @@ readme, change the `?username=` value to your GitHub's username.
 Add optional parameter of the theme.
 
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=username&theme=onedark)](https://github.com/username/github-profile-trophy)
 ```
 
 <p align="center">
@@ -178,7 +178,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&column=2
 Restrict row & column
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
+https://github-profile-trophy.vercel.app/?username=username&row=2&column=3
 ```
 
 <p align="center">
@@ -188,7 +188,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
 Adaptive column
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1
+https://github-profile-trophy.vercel.app/?username=username&column=-1
 ```
 
 You can set `columns` to `-1` to adapt the width to the number of trophies, the
@@ -227,7 +227,7 @@ Available themes.
 ### flat
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
+https://github-profile-trophy.vercel.app/?username=username&theme=flat
 ```
 
 <p align="center">
@@ -237,7 +237,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
 ### onedark
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
+https://github-profile-trophy.vercel.app/?username=username&theme=onedark
 ```
 
 <p align="center">
@@ -247,7 +247,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
 ### gruvbox
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
+https://github-profile-trophy.vercel.app/?username=username&theme=gruvbox
 ```
 
 <p align="center">
@@ -257,7 +257,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
 ### dracula
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+https://github-profile-trophy.vercel.app/?username=username&theme=dracula
 ```
 
 <p align="center">
@@ -267,7 +267,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
 ### monokai
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
+https://github-profile-trophy.vercel.app/?username=username&theme=monokai
 ```
 
 <p align="center">
@@ -277,7 +277,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
 ### chalk
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk
+https://github-profile-trophy.vercel.app/?username=username&theme=chalk
 ```
 
 <p align="center">
@@ -287,7 +287,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk
 ### nord
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord
+https://github-profile-trophy.vercel.app/?username=username&theme=nord
 ```
 
 <p align="center">
@@ -297,7 +297,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord
 ### alduin
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin
+https://github-profile-trophy.vercel.app/?username=username&theme=alduin
 ```
 
 <p align="center">
@@ -307,7 +307,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin
 ### darkhub
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+https://github-profile-trophy.vercel.app/?username=username&theme=darkhub
 ```
 
 <p align="center">
@@ -317,7 +317,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
 ### juicyfresh
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh
+https://github-profile-trophy.vercel.app/?username=username&theme=juicyfresh
 ```
 
 <p align="center">
@@ -327,7 +327,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh
 ### buddhism
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism
+https://github-profile-trophy.vercel.app/?username=username&theme=buddhism
 ```
 
 <p align="center">
@@ -337,7 +337,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism
 ### oldie
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie
+https://github-profile-trophy.vercel.app/?username=username&theme=oldie
 ```
 
 <p align="center">
@@ -347,7 +347,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie
 ### radical
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
+https://github-profile-trophy.vercel.app/?username=username&theme=radical
 ```
 
 <p align="center">
@@ -357,7 +357,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
 ### onestar
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar
+https://github-profile-trophy.vercel.app/?username=username&theme=onestar
 ```
 
 <p align="center">
@@ -367,7 +367,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar
 ### discord
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
+https://github-profile-trophy.vercel.app/?username=username&theme=discord
 ```
 
 <p align="center">
@@ -377,7 +377,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
 ### algolia
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
+https://github-profile-trophy.vercel.app/?username=username&theme=algolia
 ```
 
 <p align="center">
@@ -387,7 +387,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
 ### gitdimmed
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed
+https://github-profile-trophy.vercel.app/?username=username&theme=gitdimmed
 ```
 
 <p align="center">
@@ -397,7 +397,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed
 ### tokyonight
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight
+https://github-profile-trophy.vercel.app/?username=username&theme=tokyonight
 ```
 
 <p align="center">
@@ -407,7 +407,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight
 ### matrix
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
+https://github-profile-trophy.vercel.app/?username=username&theme=matrix
 ```
 
 <p align="center">
@@ -417,7 +417,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
 ### apprentice
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice
+https://github-profile-trophy.vercel.app/?username=username&theme=apprentice
 ```
 
 <p align="center">
@@ -427,7 +427,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice
 ### dark_dimmed
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_dimmed
+https://github-profile-trophy.vercel.app/?username=username&theme=dark_dimmed
 ```
 
 <p align="center">
@@ -437,7 +437,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_dimmed
 ### dark_lover
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover
+https://github-profile-trophy.vercel.app/?username=username&theme=dark_lover
 ```
 
 <p align="center">
@@ -447,7 +447,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover
 ### kimbie_dark
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark
+https://github-profile-trophy.vercel.app/?username=username&theme=kimbie_dark
 ```
 
 <p align="center">
@@ -461,7 +461,7 @@ You can put a margin in the width between trophies.\
 `Default: margin-w=0`
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15
+https://github-profile-trophy.vercel.app/?username=username&margin-w=15
 ```
 
 <p align="center">
@@ -475,13 +475,13 @@ You can put a margin in the height between trophies.\
 `Default: margin-h=0`
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-h=15
+https://github-profile-trophy.vercel.app/?username=username&margin-h=15
 ```
 
 ## Example layout
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15
+https://github-profile-trophy.vercel.app/?username=username&column=3&margin-w=15&margin-h=15
 ```
 
 <p align="center">
@@ -495,7 +495,7 @@ You can turn the background transparent.\
 `Default: no-bg=false`
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
+https://github-profile-trophy.vercel.app/?username=username&no-bg=true
 ```
 
 <p align="center">
@@ -509,7 +509,7 @@ You can hide the frames around the trophies.\
 `Default: no-frame=false`
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
+https://github-profile-trophy.vercel.app/?username=username&no-frame=true
 ```
 
 <p align="center">
@@ -523,4 +523,4 @@ Check [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 # License
 
 This product is licensed under the
-[MIT License](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE).
+[MIT License](https://github.com/RokkamAshritha/github-profile-trophy/blob/master/LICENSE).

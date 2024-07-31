@@ -111,7 +111,7 @@ conditions, I will consider adding a trophy. I am waiting for contributions.
 You can filter the display by specifying the titles of trophy.
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+https://github-profile-trophy.vercel.app/?username=username&title=Followers
 ```
 
 <p align="center">
@@ -121,13 +121,13 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
 If you want to specify multiple titles.
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers
+https://github-profile-trophy.vercel.app/?username=username&title=Stars,Followers
 ```
 
 You can also exclude the trophies you don't want to display.
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=-Stars,-Followers
+https://github-profile-trophy.vercel.app/?username=username&title=-Stars,-Followers
 ```
 
 ## Filter by ranks
@@ -136,7 +136,7 @@ You can filter the display by specifying the ranks.\
 `Available values: SECRET SSS SS S AAA AA A B C`
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
+https://github-profile-trophy.vercel.app/?username=username&rank=S
 ```
 
 <p align="center">
@@ -146,13 +146,13 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
 If you want to specify multiple ranks.
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA
+https://github-profile-trophy.vercel.app/?username=username&rank=S,AAA
 ```
 
 You can also exclude ranks.
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B
+https://github-profile-trophy.vercel.app/?username=username&rank=-C,-B
 ```
 
 ## Specify the maximum row & column size
@@ -166,13 +166,13 @@ Trophy will be hidden if it exceeds the range of both row and column.
 Restrict only row
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2
+https://github-profile-trophy.vercel.app/?username=username&row=2
 ```
 
 Restrict only column
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&column=2
+https://github-profile-trophy.vercel.app/?username=username&column=2
 ```
 
 Restrict row & column
